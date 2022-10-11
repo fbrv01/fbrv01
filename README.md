@@ -26,7 +26,7 @@
 
 - :seedling: I'm currently developing my frontend skills, SQL basics and trying to master VIM keybinds.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fbucholc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filip-bucholc/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fbucholc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filip-bucholc/)
 
 ---
 
