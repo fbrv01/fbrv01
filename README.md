@@ -8,28 +8,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=fbrv01&style=flat-square&color=blue" alt="" class="center"/>
 
-<h3>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-</h3>
  </div>
  
- ---
+ ### About Me :
  
- ### :man_technologist: About Me :
+Rookie Frontend Developer from Poland.
  
- I am a Rookie Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
- 
- - :telescope: I’m working as a Junior Developer (angular mostly) and unfortunately most of my repos have to be private
+Working as a Junior Developer (Angular mostly). Most of my projects here were done before I got my first job as a dev :)
 
-- :seedling: I'm currently developing my frontend skills, SQL basics and trying to master VIM keybinds.
+Currently developing my frontend skills, SQL basics and mastering VIM keybinds.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fbucholc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filip-bucholc/)
+To reach me visit: [![Linkedin Badge](https://img.shields.io/badge/-fbucholc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filip-bucholc/)
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
+<div id="tech" align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,8 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbrv01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<div id="stats" align="center">
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbrv01&layout=compact&theme=vision-friendly-dark" />
+ </div>
